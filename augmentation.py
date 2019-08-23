@@ -249,7 +249,7 @@ def shift_images(y): #this function is shifting images in all directions and sav
     
 
 
-shift_images(10) 
+shift_images() 
 
 
 
